@@ -1,0 +1,27 @@
+#block-body{
+    width: 1258px;
+    height: 1400px;
+    border: 3px solid black;
+    margin: 0 auto;
+}
+#block-header{
+    width: 1258px;
+    height: 98px;
+    border:3px solid black;
+    margin: 0 auto;
+    }
+ #block-right{
+    width: 220px;
+    height: 1400px;
+    border:3px solid black;
+    float: right;
+    display: grid;
+    
+ }
+ #block-content{
+    width: 1030px;
+    height: 1400px;
+    border:  5px solid black;
+    float: bottom;
+ }
+ 
